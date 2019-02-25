@@ -27,12 +27,12 @@ Deep Neural Network Result
 ![image](https://user-images.githubusercontent.com/16362957/53358612-d11fbe80-3956-11e9-8e7a-401e72fed58a.png)
 
 # Dependencies
-Python 3
-Numpy
-Scipy
-Matplotlib
-h5py
-SciKit Learn
+Python 3,
+Numpy,
+Scipy,
+Matplotlib,
+h5py,
+SciKit Learn.
 
 # Credits
 Most of the boilerplate and non boilerplate code was provided by Coursera as part of their Deep Learning course (https://www.coursera.org/learn/neural-networks-deep-learning).
