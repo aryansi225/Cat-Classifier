@@ -34,5 +34,5 @@ Matplotlib,
 h5py,
 SciKit Learn.
 
-# Credits
-Most of the boilerplate and non boilerplate code was provided by Coursera as part of their Deep Learning course (https://www.coursera.org/learn/neural-networks-deep-learning).
+# References
+https://www.coursera.org/learn/neural-networks-deep-learning
