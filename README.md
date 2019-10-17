@@ -36,3 +36,11 @@ SciKit Learn.
 
 # References
 https://www.coursera.org/learn/neural-networks-deep-learning
+
+# My Original Contribution & Learnings
+
+Contribution =>
+Repository contains solution to the coursework for the course mentioned in references.
+
+Major Learnings => 
+Learnt about logistic regression, shallow network and deep network and how to use them.
